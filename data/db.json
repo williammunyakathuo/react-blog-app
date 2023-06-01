@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My first website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt atque deserunt possimus commodi animi non, quibusdam nemo natus. Voluptatum quisquam veritatis sed placeat consequuntur tempore laborum dicta facilis dolorem expedita.",
+      "author": "Yoshi",
+      "id": 1
+    },
+    {
+      "title": "Website number 2",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt atque deserunt possimus commodi animi non, quibusdam nemo natus. Voluptatum quisquam veritatis sed placeat consequuntur tempore laborum dicta facilis dolorem expedita.",
+      "author": "Mario",
+      "id": 2
+    },
+    {
+      "title": "Website number 3",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt atque deserunt possimus commodi animi non, quibusdam nemo natus. Voluptatum quisquam veritatis sed placeat consequuntur tempore laborum dicta facilis dolorem expedita.",
+      "author": "Net",
+      "id": 3
+    },
+    {
+      "title": "Website number 4",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt atque deserunt possimus commodi animi non, quibusdam nemo natus. Voluptatum quisquam veritatis sed placeat consequuntur tempore laborum dicta facilis dolorem expedita.",
+      "author": "Ninja",
+      "id": 4
+    },
+    {
+      "title": "one",
+      "body": "two",
+      "author": "mario",
+      "id": 6
+    }
+  ]
+}
